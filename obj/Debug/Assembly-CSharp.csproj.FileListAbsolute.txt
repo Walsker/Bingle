@@ -1,0 +1,24 @@
+C:\Users\saull\Documents\city\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\saull\Documents\city\Temp\bin\Debug\UnityEditor.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\UnityEngine.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\saull\Documents\city\Temp\bin\Debug\UnityEngine.xml
+C:\Users\saull\Documents\city\Temp\bin\Debug\UnityEditor.xml
+C:\Users\saull\Documents\city\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\saull\Documents\city\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\saull\Documents\city\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\saull\Documents\city\obj\Debug\Assembly-CSharp.dll
+C:\Users\saull\Documents\city\obj\Debug\Assembly-CSharp.pdb
+D:\Projects\CPT 2016\mapgen\city\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Projects\CPT 2016\mapgen\city\obj\Debug\Assembly-CSharp.dll
+D:\Projects\CPT 2016\mapgen\city\obj\Debug\Assembly-CSharp.pdb

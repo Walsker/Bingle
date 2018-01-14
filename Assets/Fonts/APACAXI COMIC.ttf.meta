@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fbc15f10136e86c49ac03cc8af16b9f8
+timeCreated: 1484891141
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Apacaxi_Comic_
+  fontNames:
+  - Apacaxi_Comic_
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

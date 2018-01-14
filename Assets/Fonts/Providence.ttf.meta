@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 07c5c04af6c56254db659d08ffd7564c
+timeCreated: 1484891141
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Providence
+  fontNames:
+  - Providence
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
